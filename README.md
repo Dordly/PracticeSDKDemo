@@ -2,28 +2,22 @@
 
 ### 关于OC版SDK的创建过程
 #### 一、打开Xcode->File->New->Workspace,创建SDK名称
-![avatar](https://pan.baidu.com/s/1F5EiJQZaUwAZKLycdogTGA)
-![avatar](https://pan.baidu.com/s/1Jj-7uka3XL2XwDVMtcD8hg)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-b26fbfa893e9e53a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-a7cc5ffdb5f7ebc6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 #### 二、打开所创建的SDK名称的".xcworkspace"
-![avatar](https://pan.baidu.com/s/1qrHUWMdC6mD8hhzTBoeZJQ)
-![avatar](https://pan.baidu.com/s/1qzHr7g0Ec6-BxZYFRJ66lg)
-
-![avatar](https://pan.baidu.com/s/1qXshXRklv9l1h7TCi1FwaA)
-![avatar](https://pan.baidu.com/s/1H3Gkztc7VrglOF4l3wbZlQ)
-
-
-![avatar](https://pan.baidu.com/s/1ERFFBEptZM33cpZE4jBvIg)
-![avatar](https://pan.baidu.com/s/1mOQ3K9XPFfNmEZR_FDYOoQ)
-
-![avatar](https://pan.baidu.com/s/1HocZlRqlEAslIfObjIs_SQ)
-![avatar](https://pan.baidu.com/s/1gxdkg9CFS3dvBAu6tPwEbA)
-
-
-![avatar](https://pan.baidu.com/s/1n5mZecQN3Epm2ty1lepKKg)
-![avatar](https://pan.baidu.com/s/1yp0vXQHtuTDj8jIWUREZ1w)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-6e27c6ebc3aa5b7c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-dc5a3cc91e7a6170.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-44d97864e795d358.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-ba30f060ba47ffb1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-5ddcf654bb9b2215.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-3729a4391f3c4520.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-2654f32d70f84752.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-bf420eda9e0b0c83.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-97f5c9d3f35f226d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-cebae2dd394e9a89.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 #### 三、添加脚本信息
-![avatar](https://pan.baidu.com/s/1Gm8JFHUrLL7UmGQ_-UkiGw)
-![avatar](https://pan.baidu.com/s/1P_4UFwyzF0OIj1MzhniL0A)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-4651929a9f403f92.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_1688.PNG](https://upload-images.jianshu.io/upload_images/1761877-599f0a80cc927359.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ```
 if [ "${ACTION}" = "build" ]
