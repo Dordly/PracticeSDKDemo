@@ -1,0 +1,6 @@
+framework module FirstSDK {
+  umbrella header "FirstSDK.h"
+
+  export *
+  module * { export * }
+}
